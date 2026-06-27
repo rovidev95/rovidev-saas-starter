@@ -12,6 +12,8 @@ doesn't double-apply events.
 Stack: Next.js 15, React 19 (server actions), Prisma + PostgreSQL, Tailwind,
 TypeScript.
 
+![Landing and pricing](docs/landing.png)
+
 ## What's included
 
 - Tenancy: `User` ↔ `Membership` ↔ `Organization`. Every tenant-scoped page goes

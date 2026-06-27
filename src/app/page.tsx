@@ -41,7 +41,7 @@ export default function HomePage() {
             Create your workspace
           </Link>
           <a
-            href="https://github.com/RoviDev/rovidev-saas-starter"
+            href="https://github.com/rovidev95/rovidev-saas-starter"
             className="rounded-lg border border-slate-300 px-6 py-3 font-medium text-slate-700 hover:bg-slate-100"
           >
             View on GitHub
