@@ -1,5 +1,9 @@
 # saas-starter
 
+[![CI](https://github.com/rovidev95/rovidev-saas-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/rovidev95/rovidev-saas-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000)
+
 A multi-tenant SaaS skeleton built with the Next.js App Router. It covers the
 plumbing most SaaS apps need on day one: authentication, organizations, role
 based access control, plan limits and Stripe subscriptions with a webhook that
@@ -69,6 +73,11 @@ npm run db:seed
 ```
 
 Secrets are read lazily, so `next build` runs without real credentials.
+
+## Custom work
+
+Building a SaaS and need the multi-tenant/billing foundation done right?
+Get in touch at [rovidev.com](https://rovidev.com).
 
 ## License
 
