@@ -3,6 +3,12 @@
 [![CI](https://github.com/rovidev95/rovidev-saas-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/rovidev95/rovidev-saas-starter/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000)
+[![Live demo](https://img.shields.io/badge/Live%20demo-rovidev--saas--starter.onrender.com-2563eb?style=flat&logo=render&logoColor=white)](https://rovidev-saas-starter.onrender.com)
+
+> **Live demo:** [rovidev-saas-starter.onrender.com](https://rovidev-saas-starter.onrender.com)
+> Sign in with **owner@example.com** / **password123**, then go to *Billing* to try a
+> subscription. Use Stripe's test card **4242 4242 4242 4242** (any future expiry / CVC).
+> Hosted on Render's free tier, so the first request after idle may take ~50s to wake up.
 
 A multi-tenant SaaS skeleton built with the Next.js App Router. It covers the
 plumbing most SaaS apps need on day one: authentication, organizations, role
